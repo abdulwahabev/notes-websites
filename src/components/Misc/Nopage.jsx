@@ -8,7 +8,7 @@ const Nopage = () => {
             <div className="container">
                 <Row>
                     <Col span={24}>
-                        <Title levle={1} className='text-center'>4044 Page Not Found</Title>
+                        <Title levle={1} className='text-center'>404 Page Not Found</Title>
                     </Col>
                 </Row>
             </div>
